@@ -110,7 +110,7 @@ Mayara Abreu
 - Fabiana Sayuri
 - Jaqueline Rosseto Scagliate
 
-#### Link do repositório: [Link do repositório] (https://github.com/cgcagnoni/aula12-exercicios)
+#### Link do repositório: [Link do repositório](https://github.com/cgcagnoni/aula12-exercicios)
 
 #### Descrição/Observação (Opcional)
 
